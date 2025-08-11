@@ -8,7 +8,7 @@ import java.time.LocalDate;
 public class Main {
     public static void main(String[] args) {
 
-        Person Alex = new Person(1,"Alex", "Nbplus", "alex@gmail.com");
+       /* Person Alex = new Person(1,"Alex", "Nbplus", "alex@gmail.com");
 
         System.out.println(Alex.getSummary());
 
@@ -23,6 +23,6 @@ public class Main {
         todoItemTask.setAssignee(Alex);
         todoItemTask.getTodoItem(todo);
 
-        System.out.println(todoItemTask.getSummary());
+        System.out.println(todoItemTask.getSummary());*/
     }
 }
